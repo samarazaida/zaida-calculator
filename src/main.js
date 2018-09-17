@@ -1,4 +1,4 @@
-// const soma = (a, b) => a + b;
+const soma = (a, b) => a + b;
 
 // const subtracao = (a, b) => a - b;
 
@@ -7,7 +7,7 @@
 // const divisao = (a, b) => a / b;
 
 export default {
-  // soma,
+  soma,
   // subtracao,
   // multiplicacao,
   // divisao,

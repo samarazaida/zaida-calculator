@@ -43,7 +43,7 @@ Describe next version here
 
 ### Features
 
-* add subtracao method
+* add subtracao method -->
 
 <a name="0.1.0"></a>
 # 0.1.0 (2018-09-17)
@@ -51,4 +51,4 @@ Describe next version here
 
 ### Features
 
-* add soma method -->
+* add soma method
