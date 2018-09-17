@@ -1,0 +1,19 @@
+{
+  "pkgFiles": ["package.json"],
+  "requireUpstream": false,
+  "github": {
+    "release": true,
+    "assets": "dist/*.min.js"
+  },
+  "buildCommand": "npm run build",
+  "prompt": {
+    "src": {
+      "status": false,
+      "commit": false,
+      "tag": true,
+      "push": true,
+      "release": true,
+      "publish": false
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "name": "zaida-calculator",
+  "version": "0.0.0",
+  "description": "",
+  "main": "dist/zaida-calculator.cjs.js",
+  "module": "dist/zaida-calculator.esm.js",
+  "browser": "dist/zaida-calculator.browser.min.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "npm run lint && rollup -c",
+    "dev": "rollup -c -w",
+    "lint": "eslint src",
+    "lint:fix": "eslint src --fix",
+    "release": "run.env release-it"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-plugin-external-helpers": "^6.22.0",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "conventional-changelog-cli": "^2.0.5",
+    "dotenv": "^6.0.0",
+    "eslint": "^5.3.0",
+    "eslint-config-airbnb": "17.0.0",
+    "eslint-config-airbnb-base": "^13.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-jest": "^21.21.0",
+    "node-env-run": "^3.0.2",
+    "release-it": "^7.6.1",
+    "rollup": "^0.63.4",
+    "rollup-plugin-babel": "^3.0.7",
+    "rollup-plugin-commonjs": "^9.1.4",
+    "rollup-plugin-filesize": "^4.0.1",
+    "rollup-plugin-node-resolve": "^3.3.0",
+    "rollup-plugin-uglify": "^4.0.0",
+    "run.env": "^1.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samarazaida/playground-release-it.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samarazaida/playground-release-it/issues"
+  },
+  "homepage": "https://github.com/samarazaida/playground-release-it#readme"
+}
