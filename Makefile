@@ -1,12 +1,4 @@
-RELEASE = npm run release
+VERSION=`node -pe "require('./package.json').version"`
 
 release:
-	${RELEASE}
-
-release-patch: release
-
-release-minor:
-	${RELEASE} -- minor
-
-release-major:
-	${RELEASE} -- major
+	npm run release $${VERSION}
