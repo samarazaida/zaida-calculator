@@ -21,13 +21,13 @@ Describe next version here
 
 - list removes
 
-<!-- <a name="0.2.0"></a>
+<a name="0.2.0"></a>
 # 0.2.0 (2018-09-17)
 
 
 ### Features
 
-* add subtracao method -->
+* add subtracao method
 
 <a name="0.1.0"></a>
 # 0.1.0 (2018-09-17)
