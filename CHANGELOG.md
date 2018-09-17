@@ -21,6 +21,14 @@ Describe next version here
 
 - list removes
 
+<a name="0.3.0"></a>
+# 0.2.0 (2018-09-17)
+
+
+### Features
+
+* add prod method
+
 <a name="0.2.0"></a>
 # 0.2.0 (2018-09-17)
 
