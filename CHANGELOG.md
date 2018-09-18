@@ -27,7 +27,7 @@ Describe next version here
 
 ### Features
 
-* add div method
+* add div method -->
 
 <a name="0.3.0"></a>
 # 0.2.0 (2018-09-17)
@@ -35,7 +35,7 @@ Describe next version here
 
 ### Features
 
-* add prod method -->
+* add prod method
 
 <a name="0.2.0"></a>
 # 0.2.0 (2018-09-17)
