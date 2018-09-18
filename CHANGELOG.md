@@ -21,16 +21,16 @@ Describe next version here
 
 - list removes
 
-<!-- <a name="0.4.0"></a>
-# 0.2.0 (2018-09-17)
+<a name="0.4.0"></a>
+# 0.4.0 (2018-09-17)
 
 
 ### Features
 
-* add div method -->
+* add div method
 
 <a name="0.3.0"></a>
-# 0.2.0 (2018-09-17)
+# 0.3.0 (2018-09-17)
 
 
 ### Features
