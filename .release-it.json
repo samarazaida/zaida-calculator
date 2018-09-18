@@ -1,7 +1,6 @@
 {
   "pkgFiles": ["package.json"],
   "requireUpstream": false,
-  "increment": false,
   "requireCleanWorkingDir": false,
   "github": {
     "release": true,
