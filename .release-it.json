@@ -14,7 +14,7 @@
       "tag": true,
       "push": true,
       "release": true,
-      "publish": false
+      "publish": true
     }
   }
 }
