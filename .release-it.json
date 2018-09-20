@@ -14,7 +14,7 @@
   "prompt": {
     "src": {
       "status": false,
-      "commit": false,
+      "commit": true,
       "tag": true,
       "push": true,
       "release": true,
