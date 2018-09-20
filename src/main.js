@@ -1,4 +1,4 @@
-// const soma = (a, b) => a + b;
+const soma = (a, b) => a + b;
 
 // const subtracao = (a, b) => a - b;
 
@@ -9,7 +9,7 @@
 // const pot = (a, b) => a ** b;
 
 export {
-//   soma,
+  soma,
 //   subtracao,
 //   multiplicacao,
 //   divisao,
