@@ -1,6 +1,6 @@
 {
   "name": "@zaida/zaida-calculator",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "",
   "main": "dist/zaida-calculator.cjs.js",
   "module": "dist/zaida-calculator.esm.js",
@@ -12,7 +12,7 @@
     "dev": "rollup -c -w",
     "lint": "eslint src",
     "lint:fix": "eslint src --fix",
-    "release": "standard-version"
+    "release": "run.env release-it"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",

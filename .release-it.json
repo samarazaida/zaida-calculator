@@ -2,9 +2,8 @@
   "pkgFiles": ["package.json"],
   "requireUpstream": false,
   "requireCleanWorkingDir": false,
-  "increment": "conventional:angular",
-  "beforeChangelogCommand": "conventional-changelog -p angular -i CHANGELOG.md -s",
-  "changelogCommand": "conventional-changelog -p angular | tail -n +3",
+  "beforeChangelogCommand": "",
+  "changelogCommand": "",
   "safeBump": false,
   "github": {
     "release": true,
